@@ -1,2 +1,17 @@
-# Mutual-Fund-SIP-Tracker-Python
-Developed a Mutual Fund SIP tracker using Python to simulate monthly investments, analyze wealth creation over time, and visualize SIP portfolio growth.
+# Mutual Fund SIP Tracker using Python
+
+## Objective
+To simulate SIP investment growth and analyze wealth creation over time using Python.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+
+## Analysis Performed
+- Simulated monthly SIP investments
+- Calculated final portfolio value
+- Visualized SIP growth trend
+
+## Files
+- mutual_fund_sip_tracker.py – SIP analysis script
